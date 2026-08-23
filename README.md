@@ -10,7 +10,7 @@
   <img align="center" alt="J7834-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="J7834-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css">
 </div>
-  ##
+  
  
 <div> 
 <!---
