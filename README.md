@@ -3,11 +3,12 @@
 ### Estudante de Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="J7834-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="J7834-Golang" height="30" width="40" src="https://skillicons.dev/icons?i=go">
+  <img align="center" alt="J7834-JS" height="30" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="J7834-CPP" height="30" width="40" src="https://skillicons.dev/icons?i=cpp">
+  <img align="center" alt="J7834-Arduino" height="30" width="40" src="https://skillicons.dev/icons?i=arduino">
+  <img align="center" alt="J7834-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="J7834-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css">
 </div>
   
   ##
