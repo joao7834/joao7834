@@ -1,4 +1,4 @@
-# João
+# João Victor - J7834
 
 ### Estudante de Desenvolvimento de Sistemas • Backend • Cybersecurity • DevSecOps
 
@@ -24,7 +24,7 @@ Atualmente estou aprofundando meus conhecimentos em **Go (Golang)**, especialmen
 
 Tenho interesse em entender o ciclo completo de desenvolvimento de software — desde a arquitetura e implementação até **testes, segurança, CI/CD, containers, infraestrutura e monitoramento**.
 
-Meu objetivo é construir aplicações que não sejam apenas funcionais, mas que sejam projetadas pensando em **segurança, confiabilidade e manutenção desde o início**.
+Meu objetivo é construir aplicações que não sejam apenas funcionais, mas que sejam projetadas pensando em **segurança, confiabilidade, manutenção e praticidade desde o início**.
 
 ---
 
@@ -50,7 +50,7 @@ Meu objetivo é construir aplicações que não sejam apenas funcionais, mas que
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,java,python,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,js" />
 </p>
 
 ### Desenvolvimento Web
@@ -62,13 +62,13 @@ Meu objetivo é construir aplicações que não sejam apenas funcionais, mas que
 ### DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
-### Hardware & Embedded
+### Hardware & IOT
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 ---
