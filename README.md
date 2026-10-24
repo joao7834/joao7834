@@ -25,8 +25,8 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=J7834&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J7834&layout=compact&theme=dark&hide=html,css" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joao7834&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao7834&layout=compact&theme=dark&hide=html,css" />
 </div>
 
 ---
