@@ -1,18 +1,35 @@
-# João Victor - J7834
+# João Victor — J7834
 
-### Estudante de Desenvolvimento de Sistemas
+> Estudante de Desenvolvimento de Sistemas | Entusiasta em Golang, IoT & Cibersegurança
 
-<div>
-  <img align="center" alt="J7834-Golang" src="https://skillicons.dev/icons?i=go">
-  <img align="center" alt="J7834-Bash" src="https://skillicons.dev/icons?i=bash">
-  <img align="center" alt="J7834-Linux" src="https://skillicons.dev/icons?i=linux">
-  <img align="center" alt="J7834-Docker" src="https://skillicons.dev/icons?i=docker">
-  <img align="center" alt="J7834-Git" src="https://skillicons.dev/icons?i=postman">
-  <img align="center" alt="J7834-Git" src="https://skillicons.dev/icons?i=git">
-  <img align="center" alt="J7834-Github" src="https://skillicons.dev/icons?i=github">
-  <img align="center" alt="J7834-Obsidian" src="https://skillicons.dev/icons?i=obsidian">
-  <img align="center" alt="J7834-Arduino" src="https://skillicons.dev/icons?i=arduino">
-  <img align="center" alt="J7834-HTML" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="J7834-CSS" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="J7834-JS" src="https://skillicons.dev/icons?i=js">
+---
+
+### Ferramentas & Tecnologias
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=go,bash,linux,docker,postman,git,github,obsidian,arduino,html,css,js" alt="Tech Stack J7834" />
 </div>
+
+* **Linguagens:** Golang, C++ (.ino), HTML5, CSS3, JS, Bash, Java
+* **Sistemas Embarcados & Hardware:** ESP32, Arduino, Sensores e Atuadores IoT, Protocolos de Rede/Telemetria
+
+---
+
+### Projetos em Andamento (WIP)
+
+*  **Netpulse:** Ferramenta de auditoria de sub-redes e port scanner, desenvolvida em **Golang**, **Java** e **SQLite**.
+*  **Enercon:** Sistema completo de telemetria e monitoramento de consumo energético, utilizando **ESP32**, middleware em **Go**, backend em **Java** e **MySQL**.
+
+---
+
+### Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=J7834&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J7834&layout=compact&theme=dark&hide=html,css" />
+</div>
+
+---
+
+📫 **Onde me encontrar:**
+- GitHub: [@J7834](https://github.com/J7834)
