@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=go,bash,linux,docker,postman,git,github,obsidian,arduino,html,css,js" alt="Tech Stack J7834" />
 </div>
 
-* **Linguagens:** Golang, C++ (.ino), HTML5, CSS3, JS, Bash, Java
+* **Linguagens:** Golang, C++ (.ino), HTML5, CSS3, JS, Bash
 * **Sistemas Embarcados & Hardware:** ESP32, Arduino, Sensores e Atuadores IoT, Protocolos de Rede/Telemetria
 
 ---
